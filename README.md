@@ -1,12 +1,3 @@
-
-# Personal Profile
-
-**Name:** xuxukun  
-**Date of Birth:** July 2004   
-**Nationality:** Chinese    
-**Email:** 3064817810@qq.com
-
-
 ## Education
 
 **June 2027 – Present**  
