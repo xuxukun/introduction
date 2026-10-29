@@ -2,8 +2,7 @@
 # Personal Profile
 
 **Name:** xuxukun  
-**Date of Birth:** July 2004  
-**Gender:** Male  
+**Date of Birth:** July 2004   
 **Nationality:** Chinese    
 **Email:** 3064817810@qq.com
 
@@ -42,15 +41,13 @@ Computational Imaging and Intelligent Perception: Remote sensing image understan
 
 Technical Skills
 
-Programming and Development: Python, Linux, Conda
+Programming and Development: Python, Linux, MATLAB
 
 Deep Learning: PyTorch, model training and fine-tuning
 
 Large Language Models: Data generation, recursive training, model evaluation, and perplexity analysis
 
 Data Analysis: Experimental design, statistical analysis, metric computation, and visualization
-
-Research: Literature review, algorithm implementation, experiment reproduction, and scientific writing
 
 Research Experience
 
